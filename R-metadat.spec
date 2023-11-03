@@ -4,7 +4,7 @@
 #
 Name     : R-metadat
 Version  : 1.2.0
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/metadat_1.2-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/metadat_1.2-0.tar.gz
 Summary  : Meta-Analysis Datasets
